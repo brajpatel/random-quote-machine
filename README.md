@@ -1,1 +1,2 @@
-# random-quote-machine
+# Random Quote Machine
+An updated version of the previous random quote machine app. Previously, I had used an array of stored quotes and another separate array for the quotes' corresponding authors. This version makes use of an api ([stoic quote lambda](https://github.com/tlcheah2/stoic-quote-lambda-public-api)) and 'fetch' as practice for The Odin Projects ['Working with APIs'](https://www.theodinproject.com/lessons/node-path-javascript-working-with-apis) lesson.
